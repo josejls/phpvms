@@ -1,0 +1,8 @@
+title: phpvms
+description: Virtual Airline Management
+google_analytics: UA-3723492-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
